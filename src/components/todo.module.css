@@ -1,0 +1,7 @@
+.todo {
+    display: flex;
+}
+
+.striked {
+    text-decoration: line-through;
+}
